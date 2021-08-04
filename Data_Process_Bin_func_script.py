@@ -1,3 +1,4 @@
+#includes several functions useful for processing data from the EDF file format. Additions will be made as new file formats are used.
 import numpy as np
 import pandas as pd
 import datetime
